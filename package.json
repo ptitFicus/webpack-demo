@@ -1,0 +1,16 @@
+{
+  "name": "webpackftw",
+  "version": "1.0.0",
+  "description": "Project to demonstrate some webpack functionnalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Cavy",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  }
+}
